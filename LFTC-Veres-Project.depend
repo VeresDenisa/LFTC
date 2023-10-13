@@ -1,0 +1,415 @@
+# depslib dependency file v1.0
+1685302733 source:c:\users\denisa\desktop\lftc-veres-project\lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1684181603 
+
+1679746758 c:\users\denisa\desktop\lftc-veres-project\lexer.h
+
+1677417658 c:\users\denisa\desktop\lftc-veres-project\utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+
+1677424858 rn.h>
+
+1685315927 source:c:\users\denisa\desktop\lftc-veres-project\main.c
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+
+1685302764 source:c:\users\denisa\desktop\lftc-veres-project\utils.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+
+1685307158 source:c:\users\denisa\desktop\lftc-veres-project\parser.c
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdbool.h>
+	"parser.h"
+	"utils.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+
+1678670468 c:\users\denisa\desktop\lftc-veres-project\parser.h
+	"lexer.h"
+
+1684749015 source:/home/student/LFTC-Veres-Project/lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1679743158 /home/student/LFTC-Veres-Project/lexer.h
+
+1677414058 /home/student/LFTC-Veres-Project/utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+	<stddef.h>
+	<stdnoreturn.h>
+	<stddef.h>
+	<stdnoreturn.h>
+	<stddef.h>
+	<stdnoreturn.h>
+
+1684748867 source:/home/student/LFTC-Veres-Project/main.c
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	"ad.h"
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	"ad.h"
+	"at.h"
+
+1678666868 /home/student/LFTC-Veres-Project/parser.h
+	"lexer.h"
+	"lexer.h"
+	"lexer.h"
+	"lexer.h"
+
+1684746171 source:/home/student/LFTC-Veres-Project/utils.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+
+1684748891 source:/home/student/LFTC-Veres-Project/parser.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	"parser.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	"parser.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	"parser.h"
+	"utils.h"
+	"ad.h"
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdbool.h>
+	"parser.h"
+	"utils.h"
+	"ad.h"
+	"at.h"
+
+1680465164 source:c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1679753958 c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\lexer.h
+
+1677424858 c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+
+1680467692 source:c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\main.c
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+
+1678677668 c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\parser.h
+	"lexer.h"
+
+1680465148 source:c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\utils.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+
+1680467634 source:c:\users\denisa\desktop\lftc-veres-project\lftc-veres-project\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stdbool.h>
+	"parser.h"
+
+1684171520 source:/home/student/LFTC-Veres-Project/ad.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"ad.h"
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"ad.h"
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"ad.h"
+
+1679851686 /home/student/LFTC-Veres-Project/ad.h
+
+1684181604 source:/home/student/LFTC-Veres-Project/at.c
+	<string.h>
+	"at.h"
+	<string.h>
+	"at.h"
+	<string.h>
+	"at.h"
+
+1680460954 /home/student/LFTC-Veres-Project/at.h
+	<stdbool.h>
+	"ad.h"
+	<stdbool.h>
+	"ad.h"
+	<stdbool.h>
+	"ad.h"
+
+1680460954 >
+
+1685307281 source:c:\users\denisa\desktop\lftc-veres-project\ad.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"vm.h"
+	"ad.h"
+
+1685307087 c:\users\denisa\desktop\lftc-veres-project\ad.h
+
+1684181604 source:c:\users\denisa\desktop\lftc-veres-project\at.c
+	<string.h>
+	"at.h"
+
+1685307225 c:\users\denisa\desktop\lftc-veres-project\at.h
+	<stdbool.h>
+	"vm.h"
+	"ad.h"
+
+1684751594 c:\users\denisa\desktop\lftc-veres-project\vm.h
+
+1685316303 source:c:\users\denisa\desktop\lftc-veres-project\vm.c
+	<stdio.h>
+	"vm.h"
+	"ad.h"
+	"utils.h"
+
+1685307281 source:d:\lftc-veres-project\lftc-veres-project\ad.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"vm.h"
+	"ad.h"
+
+1677417658 d:\lftc-veres-project\lftc-veres-project\utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+
+1684751594 d:\lftc-veres-project\lftc-veres-project\vm.h
+
+1685307087 d:\lftc-veres-project\lftc-veres-project\ad.h
+
+1684181604 source:d:\lftc-veres-project\lftc-veres-project\at.c
+	<string.h>
+	"at.h"
+
+1685307225 d:\lftc-veres-project\lftc-veres-project\at.h
+	<stdbool.h>
+	"vm.h"
+	"ad.h"
+
+1685302733 source:d:\lftc-veres-project\lftc-veres-project\lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1679746758 d:\lftc-veres-project\lftc-veres-project\lexer.h
+
+1685315927 source:d:\lftc-veres-project\lftc-veres-project\main.c
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+
+1678670468 d:\lftc-veres-project\lftc-veres-project\parser.h
+	"lexer.h"
+
+1685307158 source:d:\lftc-veres-project\lftc-veres-project\parser.c
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdbool.h>
+	"parser.h"
+	"utils.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+
+1685302764 source:d:\lftc-veres-project\lftc-veres-project\utils.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+
+1685316494 source:d:\lftc-veres-project\lftc-veres-project\vm.c
+	<stdio.h>
+	"vm.h"
+	"ad.h"
+	"utils.h"
+
+1685307281 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\ad.c
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"utils.h"
+	"vm.h"
+	"ad.h"
+
+1677417658 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\utils.h
+	<stddef.h>
+	<stdnoreturn.h>
+
+1685438784 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\vm.h
+
+1685307087 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\ad.h
+
+1684181604 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\at.c
+	<string.h>
+	"at.h"
+
+1685307225 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\at.h
+	<stdbool.h>
+	"vm.h"
+	"ad.h"
+
+1685302733 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\lexer.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"lexer.h"
+	"utils.h"
+
+1679746758 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\lexer.h
+
+1685446503 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\main.c
+	<stdio.h>
+	"utils.h"
+	"lexer.h"
+	"parser.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+	"gc.h"
+
+1678670468 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\parser.h
+	"lexer.h"
+
+1685438047 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\parser.c
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<stdbool.h>
+	"parser.h"
+	"utils.h"
+	"vm.h"
+	"ad.h"
+	"at.h"
+	"gc.h"
+
+1685302764 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\utils.c
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	"utils.h"
+
+1685438926 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\vm.c
+	<stdio.h>
+	"vm.h"
+	"ad.h"
+	"utils.h"
+
+1685438561 source:d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\gc.c
+	"vm.h"
+	"ad.h"
+	"gc.h"
+
+1683245716 d:\lftc-veres-project\lftc-veres-project\lftc-veres-project\gc.h
+	"at.h"
+	"vm.h"
+
